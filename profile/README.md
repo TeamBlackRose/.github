@@ -46,7 +46,7 @@ We love open-source! If you'd like to contribute:
 
 ## 📄 License
 
-All our open-source work is released under the [MIT License](LICENSE).
+All our open-source work is released under the [MIT License](https://github.com/TeamBlackRose/.github/blob/d290a51ba2fcf47c0dd2c9568438f602ea0e86ee/LICENSE).
 
 ---
 
