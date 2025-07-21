@@ -1,8 +1,8 @@
-# 👋 Welcome to [BlackRose]!
+# 👋 Welcome to BlackRose!
 
 ### 🤖 Innovating at the Intersection of **AI** and **Social Entertainment**
 
-At **[BlackRose]**, we're building the future of entertainment—powered by artificial intelligence. Whether it's interactive experiences, smart content creation, or immersive digital tools, we're here to connect the world through intelligent, engaging platforms.
+At **BlackRose**, we're building the future of entertainment—powered by artificial intelligence. Whether it's interactive experiences, smart content creation, or immersive digital tools, we're here to connect the world through intelligent, engaging platforms.
 
 ---
 
@@ -51,4 +51,4 @@ All our open-source work is released under the [MIT License](LICENSE).
 ---
 
 > _"Where artificial intelligence meets social imagination."_  
-> — [ BlackRose ]
+> — BlackRose
