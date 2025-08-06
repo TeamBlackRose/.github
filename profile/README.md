@@ -22,7 +22,7 @@ We're an open, collaborative organization. Whether you're a developer, designer,
 
 ### 📬 Get in Touch
 
-- 💜 [Follow us on Instagram](#)
+- 💜 [Follow us on Instagram](https://www.instagram.com/teamblack.rose)
 - 🌐 [Visit our website](#)
 
 ---
